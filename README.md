@@ -1,10 +1,10 @@
 # Week4Assignment
 
 ## ARAŞTIRMA (20 puan)
-- Test Driven Development ve Behaviour Driven Development arasındaki farkı açıklayınız.
-Test Driven Development geliştirme uygulamasıdır, Behaviour Driven Development ise bir ekip metodolojisidir. Test Driven Development'da geliştiriciler testleri yazarken, Behaviour Driven Development'da otomatik özellikler kullanıcılar ve testçiler tarafından oluşturulur.
+#### Test Driven Development ve Behaviour Driven Development arasındaki farkı açıklayınız.
+-Test Driven Development geliştirme uygulamasıdır, Behaviour Driven Development ise bir ekip metodolojisidir. Test Driven Development'da geliştiriciler testleri yazarken, Behaviour Driven Development'da otomatik özellikler kullanıcılar ve testçiler tarafından oluşturulur.
 
-- Unit Test nedir? Unit Test nasıl yapılır?
+#### Unit Test nedir? Unit Test nasıl yapılır?
 Unit Test, bir yazılımın en küçük test edilebilir bölümlerinin, tek tek test edilip incelenmesi ve buradaki amaç yazılımın dooğru çalışması olduğu için bir yazılım geliştirme sürecidir.
 -En küçük parçacığı test edilmeli
 -Sadece bir senaryo test edilir.
